@@ -1,0 +1,8 @@
+cd folder path
+git clone githublink
+git remote -v
+git init
+git add.
+git commit -v "Initial Commit"
+git brach -M main -force
+git push -u origin main
