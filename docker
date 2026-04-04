@@ -1,3 +1,4 @@
+//docker cmd
 docker --version
 docker info
 docker pull httpd
