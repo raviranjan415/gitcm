@@ -4,3 +4,4 @@ docker info
 docker pull httpd
 docker images
 docker run httpd
+docker run -it ubuntu bash
