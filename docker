@@ -6,3 +6,4 @@ docker images
 docker run httpd
 docker run -it ubuntu bash
 docker run -d httpd
+docker run -p 8080:80 nginx
