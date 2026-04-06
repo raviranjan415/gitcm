@@ -8,3 +8,5 @@ docker run -it ubuntu bash
 docker run -d httpd
 docker run -p 8080:80 nginx
 docker ps
+docker ps -a
+
