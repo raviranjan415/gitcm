@@ -1,1 +1,3 @@
   
+mvn clean: Deletes the target directory, removing all previously built artifacts
+
