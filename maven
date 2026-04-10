@@ -1,3 +1,5 @@
   
 mvn clean: Deletes the target directory, removing all previously built artifacts
+mvn compile: Compiles the source code located in src/main/java
+
 
