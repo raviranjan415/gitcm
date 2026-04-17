@@ -1,6 +1,0 @@
-//u2 advance cmd
-
-nmap --script=vuln ip 
-nmap -sV ip
-
-nmap
