@@ -2,5 +2,5 @@
 mvn clean: Deletes the target directory, removing all previously built artifacts
 mvn compile: Compiles the source code located in src/main/java
 mvn test: Runs unit tests using a framework like JUnit or TestNG.
-
+mvn package: Compiles, tests, and bundles the code into a distributable format like a JAR or WAR file
 
