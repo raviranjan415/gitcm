@@ -1,4 +1,4 @@
-cd folder path
+ cd folder path
 git clone githublink
 git remote -v
 git init
