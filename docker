@@ -13,3 +13,7 @@ docker ps -a
 
 ping 8.8.8.8
 docker volume create
+docker volume ps
+docker volume ls
+docker volume ls
+docker  volume ls
