@@ -18,3 +18,4 @@ docker volume ls
 docker volume ls
 docker  volume ls
 docker network create
+docker network inspect
