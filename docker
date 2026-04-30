@@ -17,5 +17,7 @@ docker volume ps
 docker volume ls
 docker volume ls
 docker  volume ls
+docker volume rm <name>
 docker network create
 docker network inspect
+
