@@ -23,4 +23,5 @@ docker network ls
 docker network create [NAME]
 docker network create
 docker network inspect
+docker network connect [NET] [CONT]
 
