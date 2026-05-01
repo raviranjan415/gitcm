@@ -19,6 +19,8 @@ docker volume ls
 docker  volume ls
 docker volume rm <name>
 docker volume prune
+docker network ls
+docker network create [NAME]
 docker network create
 docker network inspect
 
