@@ -24,4 +24,5 @@ docker network create [NAME]
 docker network create
 docker network inspect
 docker network connect [NET] [CONT]
+docker run --network=my-net my-image
 
