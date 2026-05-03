@@ -27,3 +27,4 @@ docker network connect [NET] [CONT]
 docker run --network=my-net my-image
 docker network connect my-net my-container
 docker network disconnect my-network my-container
+docker network rm my-network
