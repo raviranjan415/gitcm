@@ -28,3 +28,4 @@ docker run --network=my-net my-image
 docker network connect my-net my-container
 docker network disconnect my-network my-container
 docker network rm my-network
+docker exec -it <container_id> bash
