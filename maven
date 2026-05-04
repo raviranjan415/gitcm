@@ -5,3 +5,4 @@ mvn test: Runs unit tests using a framework like JUnit or TestNG.
 mvn package: Compiles, tests, and bundles the code into a distributable format like a JAR or WAR file
 mvn verify: Runs integration tests and checks to ensure the package meets quality criteria.
 mvn deploy: Copies the final package to a remote repository for sharing with other developers.
+mvn dependency:tree: Displays a visual tree of all project dependencies, including transitive ones.
