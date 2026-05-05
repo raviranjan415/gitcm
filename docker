@@ -31,3 +31,4 @@ docker network rm my-network
 docker exec -it <container_id> bash
 docker commit <container_id> <new_image_name>
 docker build -t <image_name>:<tag>
+docker rmi <image_id>
