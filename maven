@@ -7,3 +7,4 @@ mvn verify: Runs integration tests and checks to ensure the package meets qualit
 mvn deploy: Copies the final package to a remote repository for sharing with other developers.
 mvn dependency:tree: Displays a visual tree of all project dependencies, including transitive ones.
 mvn dependency:analyze: Identifies used but undeclared dependencies and unused declared ones.
+ 
