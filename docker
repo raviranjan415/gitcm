@@ -30,3 +30,4 @@ docker network disconnect my-network my-container
 docker network rm my-network
 docker exec -it <container_id> bash
 docker commit <container_id> <new_image_name>
+docker build -t <image_name>:<tag>
