@@ -34,3 +34,5 @@ docker build -t <image_name>:<tag>
 docker rmi <image_id>
 docker history <image_name>  
 docker tag <source_image> <target_image>:<tag> 
+docker push <username>/<image_name>
+docker stop <id_or_name>
