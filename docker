@@ -38,3 +38,4 @@ docker push <username>/<image_name>
 docker stop <id_or_name>
 docker start <id_or_name> 
 docker logs -f <id_or_name>
+docker stats
