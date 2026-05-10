@@ -40,3 +40,4 @@ docker start <id_or_name>
 docker logs -f <id_or_name>
 docker stats
 docker inspect <id_or_name>
+docker top <id_or_name>
